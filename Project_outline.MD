@@ -68,8 +68,6 @@ This is just a draft, I'll try to think more about it.
       "unit": "mm",
       "method": "landmarks | bounding_box | manual",
       "landmarks_used": ["proximal_point", "distal_point"],
-      "coordinate_system": "bone_local",
-      "repeat": 1
     },
     {
       "measurement_id": "midshaft_diameter_ap",
